@@ -3,9 +3,7 @@
 </h1>
 
 <p align='center'>
-  <a href='https://www.npmjs.com/package/react-player'>
-    <img src='https://img.shields.io/npm/v/react-player.svg' alt='Latest npm version'>
-  </a>
+ 
   <a href='https://travis-ci.org/CookPete/react-player'>
     <img src='https://img.shields.io/travis/CookPete/react-player/master.svg' alt='Build Status'>
   </a>
